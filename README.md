@@ -19,8 +19,9 @@ We organise code by topic:
 - `topics/coding/`: fixed-length binary words and error guarantees.
 
 Each topic keeps its implementation and focused tests together. Humanistic
-explanations and their sources belong in the actual Wiki. Proposed Wiki
-pages are reviewed separately before Julio incorporates them.
+explanations and their sources belong in the actual Wiki. We keep
+[proposed Wiki pages](wiki/) separate for review before Julio
+incorporates them into that Wiki.
 
 ## Reference material
 

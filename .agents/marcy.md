@@ -8,10 +8,14 @@ then interpret the result through its correspondence with the phenomenon.
 ## Source routes
 
 We consult the actual [Wiki Home](https://github.com/JulTob/Linguistics/wiki)
-for the adopted modelling introduction. At initial integration its Wiki
-revision is ef680cead73ff4b7e6cb8998294fd46016642355; we refresh the actual
-page before relying on later wording. Unpublished proposals are not Wiki
-authority and we do not invent their page URLs.
+for the adopted modelling introduction. The six inspected adopted pages
+and their exact routes are recorded in [sources.json](sources.json),
+at Wiki revision `d53c8175210d0e4b7edc62f7269f19c3fe7323d0`.
+We refresh actual pages before relying on later wording.
+We keep new proposals in `wiki/`; their
+delivery note identifies new pages and focused revisions separately.
+Unpublished proposals are not Wiki authority, and we do not treat
+a proposed page URL as an existing source.
 
 Marcy's private plugin retains the full Marcus/Nicolau/Stati 1978 PDF,
 searchable OCR, concept catalogue and page-reading helper. We inspect

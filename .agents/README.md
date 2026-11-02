@@ -8,8 +8,9 @@ We read the relevant agent file and actual Wiki page before changing work.
 
 - We treat the actual [Wiki](https://github.com/JulTob/Linguistics/wiki)
   as the project's authoritative humanistic reference. Only Julio edits and
-  publishes it. We prepare individual Markdown proposals and precise
-  incorporation steps; we do not edit or push actual Wiki working copies.
+  publishes it. We keep individual Markdown proposals in `wiki/`,
+  with precise incorporation steps in `wiki/README.md`. These remain
+  proposals; we do not edit or push actual Wiki working copies.
 - We use neutral scientific European English and shared we-language.
   We use `_italics_`, `__bold__`, `___both___`, `$inline math$` and
   fenced `math` for displayed formulae in GitHub Markdown.

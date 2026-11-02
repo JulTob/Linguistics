@@ -25,8 +25,35 @@
         "title": "Home",
         "url": "https://github.com/JulTob/Linguistics/wiki",
         "scope": "Models of language; user-adopted wording"
+      },
+      {
+        "title": "1. First Model",
+        "url": "https://github.com/JulTob/Linguistics/wiki/1.-First-Model",
+        "scope": "Corpus grammar, token entropy and reachable recursion"
+      },
+      {
+        "title": "2. Second Model",
+        "url": "https://github.com/JulTob/Linguistics/wiki/2.-Second-Model",
+        "scope": "Positional probabilities, normal rewriting and code distance"
+      },
+      {
+        "title": "3. Analytical and generative models",
+        "url": "https://github.com/JulTob/Linguistics/wiki/3.-Analytical-and-generative-models",
+        "scope": "Analytical and generative directions; self-inclusion qualification"
+      },
+      {
+        "title": "4. Normal rewriting",
+        "url": "https://github.com/JulTob/Linguistics/wiki/4.-Normal-rewriting",
+        "scope": "Ordered rules, first occurrence and stopping"
+      },
+      {
+        "title": "5. Information and linguistic structure",
+        "url": "https://github.com/JulTob/Linguistics/wiki/5.-Information-and-linguistic-structure",
+        "scope": "Probability units, entropy and linguistic structure"
       }
     ],
-    "proposals": "Individual proposed pages remain outside the code repository until Julio incorporates them. Refresh actual page content before using later wording."
+    "proposals": "wiki/ contains reviewable Markdown proposals; wiki/README.md maps their exact destinations and adoption steps. Only Julio publishes the actual Wiki. Refresh actual pages before relying on later wording.",
+    "inspected_revision": "d53c8175210d0e4b7edc62f7269f19c3fe7323d0",
+    "inspected_on": "2026-11-02"
   }
 }
