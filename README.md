@@ -26,7 +26,7 @@ pages are reviewed separately before Julio incorporates them.
 Our initial mathematical-linguistics source is Solomon Marcus, Edmond
 Nicolau and Sorin Stati, _Introducción en la lingüística matemática_,
 Spanish edition translated by Ramon Cerdá, Editorial Teide, 1978.
-The book is retained privately for Marcy's consultation. This repository
+The book is retained privately for consultation. This repository
 contains our original computational resources; it does not distribute
 the book or its OCR text.
 
