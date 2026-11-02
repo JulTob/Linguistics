@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "foundational_sources": [
+    {
+      "id": "marcus-nicolau-stati-1978-es",
+      "authors": [
+        "Solomon Marcus",
+        "Edmond Nicolau",
+        "Sorin Stati"
+      ],
+      "title": "Introducción en la lingüística matemática",
+      "translator": "Ramon Cerdá",
+      "publisher": "Editorial Teide",
+      "year": 1978,
+      "coverage": "Eleven mapped chapters; source and teaching coverage are tracked by Marcy",
+      "access": "Full PDF and OCR are retained in the private Marcy plugin; not included in this public repository. Access requires an active host exposing those bundled files.",
+      "private_source_sha256": "9888661db8934e32d5026aaff6c920d385609b6942194b39e722400b26a5bb87"
+    }
+  ],
+  "project_wiki": {
+    "url": "https://github.com/JulTob/Linguistics/wiki",
+    "initial_revision": "ef680cead73ff4b7e6cb8998294fd46016642355",
+    "adopted_pages": [
+      {
+        "title": "Home",
+        "url": "https://github.com/JulTob/Linguistics/wiki",
+        "scope": "Models of language; user-adopted wording"
+      }
+    ],
+    "proposals": "Individual proposed pages remain outside the code repository until Julio incorporates them. Refresh actual page content before using later wording."
+  }
+}

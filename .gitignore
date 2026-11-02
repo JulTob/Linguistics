@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+private-sources/
+marcus-nicolau-stati-1978-es.pdf
+marcus-nicolau-stati-1978-es.txt
+book-layout.txt

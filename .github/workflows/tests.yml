@@ -1,0 +1,25 @@
+name: Topic helpers
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        topic:
+          - normal-rewriting
+          - information
+          - coding
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run topic tests
+        run: >-
+          python -B -m unittest discover
+          -s topics/${{ matrix.topic }} -v
