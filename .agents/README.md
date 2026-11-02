@@ -1,12 +1,13 @@
 # Linguistics project instructions
 
-We keep operating directions here, separate from human topic explanations.
+We keep agentic operating directions here, separate from humanistic
+topic explanations.
 We read the relevant agent file and actual Wiki page before changing work.
 
 ## Shared rules
 
 - We treat the actual [Wiki](https://github.com/JulTob/Linguistics/wiki)
-  as the project's authoritative human reference. Only Julio edits and
+  as the project's authoritative humanistic reference. Only Julio edits and
   publishes it. We prepare individual Markdown proposals and precise
   incorporation steps; we do not edit or push actual Wiki working copies.
 - We use neutral scientific European English and shared we-language.
@@ -36,3 +37,9 @@ We use [Marcy's project binding](marcy.md) for continuous linguistic
 modelling. Subject and language specialists retain their own methods;
 we choose focused complementary checks for the actual uncertainty.
 We keep source identity and access in [sources.json](sources.json).
+
+## Audience terminology
+
+We use humanistic for people-oriented material and agentic for AI-oriented
+material across projects. The [shared terminology](audience-terminology.md)
+carries the precise scope and source-preservation rules.

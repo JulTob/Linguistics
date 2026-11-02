@@ -44,5 +44,5 @@ stochastic Markov processes. We identify probability units and support
 before calculating entropy. We use bounded-error interpretations in code
 guarantees and preserve local source qualifications in affected lessons.
 
-Human explanatory additions remain individual Wiki proposals for Julio.
+Humanistic explanatory additions remain individual Wiki proposals for Julio.
 We put no agent operating directions in those topic pages.
